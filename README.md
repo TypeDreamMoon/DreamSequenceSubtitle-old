@@ -1,4 +1,4 @@
-# 因设计缺陷 本插件停止更新 您可以使用源插件 https://github.com/jushuai123/SequenceDialogue 本插件只能在Editor模式下运行 打包出来是没有效果的
+# 因设计缺陷 本插件停止更新 您可以使用源插件 [SequenceDialogue](https://github.com/jushuai123/SequenceDialogue) 或新版本 [DreamSequenceSubtitle](https://github.com/TypeDreamMoon/DreamSequenceSubtitle) 本插件只能在Editor模式下运行 打包出来是没有效果的
 
 # Dream Sequence Subtitle - 梦月序列字幕
 
